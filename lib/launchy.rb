@@ -1,5 +1,5 @@
 require 'addressable/uri'
-
+# Dette er fra meg
 #
 # The entry point into Launchy. This is the sole supported public API.
 #
